@@ -28,9 +28,7 @@ You can click the Preview link to take a look at your changes.
 
   - SmartWatch를 통한 개인 건강정보 맞춤형 보험 상품 추천 웹 페이지 제작
 
-  - 웹 취약점 변조 분석(OWASP 참조) 
-
-  - Ghidra 파해쳐보기 [작성중]
+  - Ghidra Tool Guide [작성중]
 
   - WebHacking.kr write-up [진행중]
 
