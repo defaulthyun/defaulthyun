@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 <h1>현동엽(DawnHyun)</h1>
 
 - 관심 분야
-  -  Penetration Testing (Network / Web Hacking)
+  -  Penetration Testing 
   -  Reversing Engineering
+  -  Network / Web
   -  ML/AI
   -  Cloud
   
