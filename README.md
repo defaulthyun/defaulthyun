@@ -9,7 +9,7 @@ defaulthyun/defaulthyun is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>현동엽(HyunDongYeop)</h1>
+<h1>현동엽()</h1>
 
 - 관심 분야
   -  Penetration Testing (Network / Web Hacking)
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 - 공모전 & 해커톤
   - 2017 
     - 2017 HUST Hacking Festival CTF 참가 
-    - 
+    
   - 2021
     - Physical Computing 역량 강화 - 아두이노를 활용한 공기청정기 만들기
     - Codeit 온라인 코딩 캠프(파이썬기초다지기)
