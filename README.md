@@ -9,7 +9,7 @@ defaulthyun/defaulthyun is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>현동엽()</h1>
+<h1>현동엽(DawnHyun)</h1>
 
 - 관심 분야
   -  Penetration Testing (Network / Web Hacking)
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   - WebHacking.kr write-up [진행중]
 
 
-- 공모전 & 해커톤
+- 교육활동 & 공모전 & 해커톤
   - 2017 
     - 2017 HUST Hacking Festival CTF 참가 
     
