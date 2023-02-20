@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 
   - WebHacking.kr write-up [진행중]
 
+  - Youtube API 활용하여 음악장르 유튜버 결산 레포트 EDA
+
 
 - 교육활동 & 공모전 & 해커톤
   - 2017 
