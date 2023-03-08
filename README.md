@@ -50,8 +50,6 @@ You can click the Preview link to take a look at your changes.
 
 - 자격증 
   -  정보처리기사
-  -  빅데이터분석기사(필합)
-  -  리눅스마스터 2급
   -  컴퓨터활용능력1급
   -  정보처리기능사
   -  통신선로기능사
