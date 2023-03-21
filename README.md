@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
     - Codeit 온라인 코딩 캠프(파이썬기초다지기)
 
   - 2022 
-    - 보안프로젝트 모의해킹 실무과정 수료
+    - 보안프로젝트 모의해킹 실무과정 
     - 교내 새내기 튜터링 프로그램(Mento) 참가
     - KISIA ICT산업기반 전문인력 양성 교육 과정 수료
     - KISA 마이 핀테크 서비스 개발경진대회 참가
