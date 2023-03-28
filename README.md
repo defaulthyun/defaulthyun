@@ -4,8 +4,6 @@ defaulthyun/defaulthyun is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>현동엽(DawnHyun)</h1>
-
 - 관심 분야
   -  Penetration Testing 
   -  Reversing Engineering
