@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
      
     - Youtube API 활용하여 음악장르 유튜버 결산 레포트 EDA
     
-    - Kaggle Write-up 
+    - Playground Series - Season 3 Kaggle Write-up Episode 2,6
 
   - Security
 
-    - BlueBorne Spoofing 
+    - BlueBorne Spoofing ( CVE-2017-8628 ) 
     
     - Python Socket 모듈 이용하여 포트 스캐너(Port Scanner) 구현
     
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   - 2022 
     - 보안프로젝트 모의해킹 실무과정 35기
     - 교내 새내기 튜터링 프로그램 참가 (Mento)
-    - KISIA ICT산업기반 전문인력 양성 교육 과정 수료
+    - KISIA ICT산업기반 사이버보안 전문인재 양성 교육 과정 수료
     - KISA 마이 핀테크 서비스 개발경진대회 참가
     - ASK 2022 논문경진대회 동상 수상
     - 홍익대학교 세종캠퍼스 소프트웨어 학술제 중소기업상업센터 협력장상 수상
