@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 교육활동 & 공모전 & 해커톤
+- 교육활동 & 공모전 
   - 2017 
     - 2017 HUST Hacking Festival CTF 참가 
       - [Team *Hacktagon* HUST 2017 Write-up](https://hacktagon.github.io/ctf/17th_hust_hacktagon_writeup)
