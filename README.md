@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 프로젝트
 
   - Common
+    - [HTML/JS/CSS로 나만의 MBTI 사이트 만들기](https://edu.goorm.io/lecture/25652/%ED%95%98%EB%A3%A8-10%EB%B6%84-web-project-html-js-css%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-mbti-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
     
     - SmartWatch를 통한 개인 건강정보 맞춤형 보험 상품 추천 사이트
      
