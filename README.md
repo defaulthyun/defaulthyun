@@ -24,19 +24,21 @@ You can click the Preview link to take a look at your changes.
   - Common
     - [HTML/JS/CSS로 나만의 MBTI 사이트 만들기](https://edu.goorm.io/lecture/25652/%ED%95%98%EB%A3%A8-10%EB%B6%84-web-project-html-js-css%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-mbti-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
     
-    - SmartWatch를 통한 개인 건강정보 맞춤형 보험 상품 추천 사이트
+    - [SmartWatch를 통한 개인 건강정보 맞춤형 보험 상품 추천 사이트](https://github.com/defaulthyun/Health-Insurance-Recommendation)
      
-    - Youtube API 활용하여 음악장르 유튜버 결산 레포트 EDA
+    - [Youtube API 활용하여 음악장르 유튜버 결산 레포트 EDA](https://github.com/defaulthyun/youtube_project_rookies)
     
-    - Playground Series - Season 3 Kaggle Write-up Episode 2,6
+    - [Playground Series - Season 3 Kaggle Write-up Episode 2,6](https://github.com/defaulthyun/Kaggle-Playground-Writeup)
+
+    - [객체탐지를 활용한 Home CCTV](https://github.com/defaulthyun/HomeCCTV)
 
   - Security
 
     - BlueBorne Spoofing ( CVE-2017-8628 ) 
     
-    - Python Socket 모듈 이용하여 포트 스캐너(Port Scanner) 구현
+    - [Python Socket 모듈 이용하여 포트 스캐너(Port Scanner) 구현](https://github.com/cpuu/python3-pentest)
     
-    - Opcode와 API의 빈도수를 활용한 Cerber형 랜섬웨어 탐지 플랫폼 개발
+    - [Opcode와 API의 빈도수를 활용한 Cerber형 랜섬웨어 탐지 플랫폼 개발](https://github.com/defaulthyun/Cerber-Type-Ransomware-Detection)
     
     - [Ghidra Tool Guide](https://simplistic-cruiser-734.notion.site/Ghidra-Guide-59e4fb30c0bc4d1ebbf1d19c0c128426)
 
@@ -49,7 +51,6 @@ You can click the Preview link to take a look at your changes.
       - [kimtruth HUST 2017 Write-up](https://github.com/kimtruth/CTF-write-up/tree/master/2017/HUST%202017)
 
   - 2022 
-    - 보안프로젝트 모의해킹 실무과정 35기
     - 교내 새내기 튜터링 프로그램 참가 (Mento)
     - KISIA ICT산업기반 사이버보안 전문인재 양성 교육 과정 수료
     - KISA 마이 핀테크 서비스 개발경진대회 참가
@@ -59,6 +60,5 @@ You can click the Preview link to take a look at your changes.
 
 - 자격증 
   -  정보처리기사
-  -  컴퓨터활용능력1급
-  -  정보처리기능사
+  -  컴퓨터활용능력2급
   -  통신선로기능사
