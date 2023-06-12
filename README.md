@@ -10,6 +10,11 @@ You can click the Preview link to take a look at your changes.
   -  Reversing Engineering
   -  ML/DL/AI
   -  Cloud
+
+- 기술 스택
+  - C / C++
+  - Python
+  - JAVA 
   
 - 학력
   - 홍익대학교 세종캠퍼스 소프트웨어융합학과
